@@ -25,5 +25,3 @@ Recall is the critical metric in medical diagnosis —
 missing a cancer case (false negative) is far more 
 dangerous than a false alarm.
 
-## Project Context
-Group assignment — Introduction to Data Science, IIT Patna.
